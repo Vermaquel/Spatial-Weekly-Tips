@@ -1,1 +1,1 @@
-# Spatial-Weekly-Tips
+# Spatial-Weekly-Tips (SWT)
